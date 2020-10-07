@@ -15,8 +15,8 @@
   ],
   "has_dataset": true,
   "has_api": false,
-  "git_url": "",
-  "git_commit": "",
+  "git_url": "https://github.com/op-playground/covid-dataset.git",
+  "git_commit": "c2fb16ebcf7f1c40b310f188496b9e24325aa3c6",
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
